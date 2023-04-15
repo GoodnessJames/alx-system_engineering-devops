@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amd . .. /* -F | sort -n -f
+ls -amdv . .. /* -F
