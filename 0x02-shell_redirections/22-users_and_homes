@@ -1,4 +1,4 @@
 #!/bin/bash
-cat /etc/passwd \
+cut -d -1,6 /etc/passwd | sort -f \
 
 
