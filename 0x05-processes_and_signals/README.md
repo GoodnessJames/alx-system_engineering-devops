@@ -1,10 +1,10 @@
 # Processes and signals
 
 In this project, I gained knowledge and practical experience in managing process IDs
-and signal handling within Bash scripts, utilizing commands such as ps, pgrep, pkill,
-exit, and trap to effectively control and interact with processes.
+and signal handling within Bash scripts, utilizing commands such as `ps`, `pgrep`, `pkill`,
+`exit`, and `trap` to effectively control and interact with processes.
 
-## Description of Project Tasks
+## Description of Project Task Files
 
 * **0. What is my PID**
   * [0-what-is-my-pid](./0-what-is-my-pid): Bash script that displays its own PID.
@@ -21,7 +21,7 @@ exit, and trap to effectively control and interact with processes.
 
 * **3. Show your Bash PID made easy**
   * [3-show_your_bash_pid_made_easy](./3-show_your_bash_pid_made_easy): Bash script
-  that displays the PID along with the process name of processes who name contains the
+  that displays the PID along with the process name of processes whose name contains the
   word `bash`.
 
 * **4. To infinity and beyond**
@@ -47,11 +47,11 @@ exit, and trap to effectively control and interact with processes.
 
 * **9. Process and PID file**
   * [100-process_and_pid_file](./100-process_and_pid_file): Bash script that creates the file
-  `/var/run/holbertonscript.pid` containing its PID and displays `To infinity and
+  `/var/run/myscript.pid` containing its PID and displays `To infinity and
   beyond` indefinitely.
   * Displays `I hate the kill command` upon receiving a `SIGTERM` signal.
   * Displays `Y U no love me?!` upon receiving a `SIGINT` signal.
-  * Deletes the file `/var/run/holbertonscript.pid` and terminates itself
+  * Deletes the file `/var/run/myscript.pid` and terminates itself
   upon receiving the `SIGQUIT` or `SIGTERM` signal.
 
 * **10. Manage my process**
