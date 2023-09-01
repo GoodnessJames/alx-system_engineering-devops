@@ -1,4 +1,5 @@
 # Processes and signals
+
 In this project, I gained knowledge and practical experience in managing process IDs
 and signal handling within Bash scripts, utilizing commands such as ps, pgrep, pkill,
 exit, and trap to effectively control and interact with processes.
