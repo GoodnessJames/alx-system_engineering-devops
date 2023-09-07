@@ -13,11 +13,10 @@ TCP/UDP data transfer protocols.
 
 * **1. Types of network**
   * [1-types_of_network](./1-types_of_network): Text file answering the following questions:
-  * What type of network are Holberton iMacs connected to?
+  * What type of network a computer in local is connected to?
   * What type of network could connect an office in one building to another
   office in a building a few streets away?
-  * What network do you use when you browse www.holbertonschool.com from your
-  smartphone (not connected to the Wifi)?
+  * What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
 
 * **2. MAC and IP address**
   * [2-MAC_and_IP_address](./2-MAC_and_IP_address): Text file answering the following questions:
@@ -26,7 +25,7 @@ TCP/UDP data transfer protocols.
 
 * **3. UDP and TCP**
   * [3-UDP_and_TCP](./3-UDP_and_TCP): Text file answering the following questions
-  (boxes refer to an image provided by Holberton School):
+  (boxes refer to an image provided by ALX SE School):
   * Which statement is correct for the TCP box?
   * Which statement is correct for the UDP box?
   * Which statement is correct for the TCP worker?
