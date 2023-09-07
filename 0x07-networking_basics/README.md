@@ -25,7 +25,7 @@ TCP/UDP data transfer protocols.
 
 * **3. UDP and TCP**
   * [3-UDP_and_TCP](./3-UDP_and_TCP): Text file answering the following questions
-  (boxes refer to an image provided by ALX School):
+  (boxes refer to an image provided by ALX SE School):
   * Which statement is correct for the TCP box?
   * Which statement is correct for the UDP box?
   * Which statement is correct for the TCP worker?
