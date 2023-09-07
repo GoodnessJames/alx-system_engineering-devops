@@ -1,4 +1,4 @@
-# Networking basics #0
+# Networking Basics #0
 This project was the first in a series of two projects introducing networking concepts.
 During this project, I addressed several quiz-like questions and authored a couple of
 Bash scripts as I delved into topics such as the OSI model, LAN and WAN networks, as well as
