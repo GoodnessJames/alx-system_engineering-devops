@@ -1,6 +1,6 @@
 # Web stack debugging #1
 This was the second installment in a series of web stack debugging projects.
-In these projects, I was presented with malfunctioning or buggy web stacks confined
+In this project, I was presented with malfunctioning or buggy web stacks confined
 within isolated containers, and my assignment was to restore them to a functional state.
 For each assignment, I authored a script that automated the required commands to rectify
 the web stack.
