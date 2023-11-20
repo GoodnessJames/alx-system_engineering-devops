@@ -5,7 +5,8 @@ to configure and manage the firewall settings on the web servers that were alloc
 to me by ALX SE School. The utilization of `ufw` allowed for a streamlined and straightforward
 approach to firewall configuration, enhancing the security posture of the deployed web servers.
 Through the careful configuration of firewall rules, I aimed to fortify the servers against
-unauthorized access and potential security threats, ensuring a robust defense mechanism for the web infrastructure.
+unauthorized access and potential security threats, ensuring a robust defense mechanism for
+the web infrastructure.
 
 ## Project Tasks
 
