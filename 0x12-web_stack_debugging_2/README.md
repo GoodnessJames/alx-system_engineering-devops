@@ -1,5 +1,4 @@
 # Web Stack Debugging #2
-
 This marked the third installment in a sequence of web stack debugging projects.
 Within these endeavors, I was presented with malfunctioning or bug-ridden web stacks
 encapsulated within isolated containers. My responsibility involved rectifying these
