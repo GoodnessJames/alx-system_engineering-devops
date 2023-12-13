@@ -1,15 +1,10 @@
 #!/usr/bin/python3
-"""
-Query titles of top ten posts of a given subreddit
-"""
+"""Query titles of top ten posts of a given subreddit"""
 import requests
 
 
 def top_ten(subreddit):
-    """
-        Print top ten titles for a given subreddit or None
-        if invalid subreddit is given
-    """
+    """Print top ten titles for a given subreddit or None"""
     headers = requests.utils.default_headers()
     headers.update({'User-Agent': 'My User Agent 1.0'})
 
